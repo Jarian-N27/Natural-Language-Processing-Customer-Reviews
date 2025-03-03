@@ -55,3 +55,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## 📝 Acknowledgments
 Special thanks to [Javier A. Dastas](https://github.com/javierdastas).
 
+Link to the entire project [here](https://github.com/javierdastas/project-nlp-automated-customer-reviews)
+
